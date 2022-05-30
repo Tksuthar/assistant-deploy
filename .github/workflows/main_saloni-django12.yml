@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'saloni-django12'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0CE58C7EA7BD4069981B69CDA68436DD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_200AB82CBCD9452F9BFB9D6002B1A0FC }}
